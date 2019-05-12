@@ -11,5 +11,6 @@ const removeLast = ["Milo", "Otis", "Garfield"];
 
 removeLast.pop();
 
-const removeLast = ["Milo", "Otis", "Garfield"];
+const removeFirst = ["Milo", "Otis", "Garfield"];
 
+removeFirst.shift()
