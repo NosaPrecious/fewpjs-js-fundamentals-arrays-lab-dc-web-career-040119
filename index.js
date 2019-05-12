@@ -1,4 +1,4 @@
 // Write your solution here!
-pets = ["Milo", "Otis", "Garfield"];
+append = ["Milo", "Otis", "Garfield"];
 
-pets.push("Odie");
+append.push("Odie");
